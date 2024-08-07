@@ -1,6 +1,6 @@
 ## MaiaPerd
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaPerd&layout=compact&langs_count=6&theme=transparent&hide=html,css,dockerfile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaPerd&layout=compact&langs_count=6&theme=transparent&hide=html,css,dockerfile)
 
 ### Projets réalisé pendant ma formations
 
