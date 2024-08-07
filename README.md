@@ -1,6 +1,6 @@
 ## MaiaPerd
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaPerd&layout=compact&langs_count=6&theme=transparent&count_weight=0.9&hide=html,css,dockerfile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaPerd&layout=compact&langs_count=6&size_weight=0&theme=transparent&hide=html,css,dockerfile)
 
 ### Projets réalisé pendant ma formations
 
@@ -15,8 +15,7 @@
 - MAUI
   - [Reproduction partiel de l'application Musiques sur iOS](https://github.com/MaiaPerd/MAUI_AppleMusic) (application mobile)
   - [Architecture MVVM maison et utilisation du toolkit](https://github.com/MaiaPerd/MVVMMaui) (application MAUI cross-platform)
- 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaiaPerd)]
+
 
 <!--
 **MaiaPerd/MaiaPerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
