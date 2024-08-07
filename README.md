@@ -8,13 +8,13 @@
 
 - Swift
   - [Puissance 4](https://github.com/MaiaPerd/Puissance4) (application console)
-  - [Reproduction partiel de l'application Podcasts sur iOS](https://github.com/MaiaPerd/iOS_Podcasts) (application mobile)
-  - [Simulation de calcule et de gestion des notes](https://github.com/MaiaPerd/CalculetteMoyenne) (application mobile)
+  - [Reproduction partielle de l'application Podcasts sur iOS](https://github.com/MaiaPerd/iOS_Podcasts) (application mobile)
+  - [Simulation de calcul et de gestion des notes](https://github.com/MaiaPerd/CalculetteMoyenne) (application mobile)
 - Kotlin
   - [AndroidApp](https://github.com/MaiaPerd/AndroidApp) (application mobile)
 - MAUI
-  - [Reproduction partiel de l'application Musiques sur iOS](https://github.com/MaiaPerd/MAUI_AppleMusic) (application mobile)
-  - [Architecture MVVM maison et utilisation du toolkit](https://github.com/MaiaPerd/MVVMMaui) (application MAUI cross-platform)
+  - [Reproduction partielle de l'application Musique sur iOS](https://github.com/MaiaPerd/MAUI_AppleMusic) (application mobile)
+  - [Architecture MVVM maison et utilisation du .NET MAUI Community Toolkit](https://github.com/MaiaPerd/MVVMMaui) (application MAUI cross-platform)
 
 
 <!--
