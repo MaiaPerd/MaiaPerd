@@ -15,6 +15,9 @@
 - MAUI
   - [Reproduction partielle de l'application Musique sur iOS](https://github.com/MaiaPerd/MAUI_AppleMusic) (application mobile)
   - [Architecture MVVM maison et utilisation du .NET MAUI Community Toolkit](https://github.com/MaiaPerd/MVVMMaui) (application MAUI cross-platform)
+ 
+- .Net
+  - [ScoreTarot](https://github.com/MaiaPerd/ScoreTarot) (application console)
 
 
 <!--
